@@ -47,7 +47,6 @@ Make sure your program does something to measure the consider assessments as a p
 * Pre assessments
 * Formative assessments
 
-
 ## Scope
 Functional and Content Specifications
 
