@@ -2,7 +2,7 @@
 
 Write a design document where you explain your project. You should clearly explain the problem you're trying to solve. Be sure to describe the domain you're working with and the users you're trying to target. Remember that the point of your design document is that you can hand it off to any developer and theoretically they would be able to understand and build the program.
 
-You'll be adding to your design document as you work towards your midterm due on **March 22, 2017**.
+You'll be adding to your design document as you work towards your midterm due on **March 29, 2017**.
 
 ## Topic
 *What is the subject at hand?*
